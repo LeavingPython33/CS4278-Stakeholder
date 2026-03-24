@@ -1,1 +1,2 @@
-# CS4278-Stakeholder
+Alfred Tapia, tapiaad, Client
+Junchao Zhou, zhouj26, user
